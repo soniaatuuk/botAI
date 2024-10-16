@@ -1,0 +1,2 @@
+0 healthy food
+1 fast food
